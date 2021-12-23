@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "suhail.combine.enchantments.mixin",
+  "compatibilityLevel": "JAVA_16",
+  "mixins": [
+    "CombineProtectionEnchantMixin",
+    "CombineDamangeEnchantMixnix"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
